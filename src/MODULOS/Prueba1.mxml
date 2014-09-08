@@ -5,6 +5,6 @@
 	<fx:Declarations>
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
-	<s:TitleWindow x="10" y="10" width="390" height="184" title="Prueba1">
+	<s:TitleWindow x="10" y="10" width="390" height="184" title="HOLA MUNDO">
 	</s:TitleWindow>
 </s:Group>
